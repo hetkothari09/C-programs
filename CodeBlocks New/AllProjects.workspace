@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../CPPProjects/MenuDrivenCalculator/MenuDrivenCalculator.cbp" />
+		<Project filename="../CPPProjects/TableGenerator/TableGenerator.cbp" />
+		<Project filename="../CPPProjects/CPPProjects/FunctionDeclaration/FunctionDeclaration.cbp" />
+		<Project filename="../C programs/DisplayArray/DisplayArray.cbp" />
+		<Project filename="../C programs/InsertionArray/InsertionArray.cbp" />
+		<Project filename="../C programs/DeletionArray/DeletionArray.cbp" />
+		<Project filename="../C programs/Code Blocks Projectsss/QuickSort/QuickSort.cbp" />
+		<Project filename="../C programs/Code Blocks Projectsss/StackInsertionDeletion/StackInsertionDeletion.cbp" />
+		<Project filename="../C programs/Code Blocks Projectsss/LinkdedList/LinkdedList.cbp" />
+		<Project filename="../C programs/Code Blocks Projectsss/BubbleSort/BubbleSort.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

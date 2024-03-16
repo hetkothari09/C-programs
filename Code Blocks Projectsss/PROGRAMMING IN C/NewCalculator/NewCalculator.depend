@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622353639 source:c:\users\admin\onedrive\desktop\c programs\code blocks projectsss\programming in c\newcalculator\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619353727 source:c:\users\admin\onedrive\desktop\code blocks javascript\programming in c\greatestnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
